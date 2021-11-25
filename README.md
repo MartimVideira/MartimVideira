@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on refactoring some projects to put them here on github.
+- 🔭 I’m currently refactoring some projects to put them here on github.
 
 <div align="center">
   <a href="https://github.com/MartimVideira">
